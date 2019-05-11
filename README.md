@@ -4,12 +4,14 @@ The code has been written in python version 3.7.3. Implemented CRUD from API onl
 # Task
 
 Requirements
+
     • Django rest framework
     • Modelviewset for api
     • Modelserializer for serializer
     • Django models
 
 Features
+
     • Two modules schools and students
     • CRUD for both the features
     • Api only
